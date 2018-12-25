@@ -51,3 +51,6 @@ E:\1_Обучение\first C\WEB\BookStore\BookStore\obj\Debug\BookStore.csproj
 E:\1_Обучение\first C\WEB\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
 E:\1_Обучение\first C\WEB\BookStore\BookStore\obj\Debug\BookStore.dll
 E:\1_Обучение\first C\WEB\BookStore\BookStore\obj\Debug\BookStore.pdb
+E:\1_Обучение\first C\WEB\BookStore\BookStore\bin\System.Data.SqlLocalDb.dll
+E:\1_Обучение\first C\WEB\BookStore\BookStore\bin\System.Data.SqlLocalDb.xml
+E:\1_Обучение\first C\WEB\BookStore\BookStore\bin\en-GB\System.Data.SqlLocalDb.resources.dll
